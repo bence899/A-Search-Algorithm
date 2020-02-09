@@ -1,2 +1,2 @@
 # A-Search-Algorithm
-Side project, implementing the A* Search Algorithm using python
+Side project, implementing the A* Search Algorithm using python.
